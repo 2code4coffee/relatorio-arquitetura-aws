@@ -5,7 +5,7 @@
 
 ----
 - ## **Objetivo**
-Este artigo foi formulado com base em questões do simulado Solutions Architect Associate da Escola da Nuvem, com finalidade educativa e portfólio, não estando afiliado, associado, autorizado, endossado ou de qualquer forma oficialmente conectado a organizações, empresas ou pessoa jurídica. 
+Este artigo foi escrito com base em questões do simulado Solutions Architect Associate da Escola da Nuvem, com finalidade educativa e portfólio, não estando afiliado, associado, autorizado, endossado ou de qualquer forma oficialmente conectado a organizações, empresas ou pessoa jurídica. 
 A responsabilidade de uso de qualquer solução ou código deste documento em problemas reais é inteiramente do usuário.
 
 ----
